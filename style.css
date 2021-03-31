@@ -1,0 +1,61 @@
+body{
+  text-align:center;
+  
+}
+h1{
+  font-style:normal;
+  font-size:25px;
+}
+img{
+  border-style:solid;
+  padding:9px;
+  width:230px;
+}
+p{
+  font-size:18px;
+  font-style:normal;
+}
+#welcome{
+    height: 350px;
+    background:linear-gradient(#03fce8 0%,#03fca5 100%);
+}
+hr{
+    color: black;
+    height: auto;
+}
+.links{
+    float: right;
+    color: deeppink;
+    padding-top:5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family: fantasy;
+    font-size: 15px;
+}
+.links:hover{
+    background-color: crimson;
+}
+.line{
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
+#my work{
+    background:linear-gradient(#03fce8 0%,#03fca5 100%);
+}
+#character reviews{
+    background:linear-gradient(#ff8f8f 0%,#8ffff0 100%);
+}
+#my inspiration{
+background:linear-gradient(#fd8fff 0%,#948fff 100%);    
+}
+#inspiration_1{
+    width: 300px;
+    height: 500px;
+}
+#inspiration_2{
+    width: 300px;
+    height: 500px;
+}
